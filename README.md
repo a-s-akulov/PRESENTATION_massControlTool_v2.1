@@ -11,9 +11,9 @@ All the same, this was the very beginning of my learning the language, I didn’
 For GUI used module tkinter, all code fully writed by myself
 
 used modules:
-  paramiko
-  socket
-  time
-  tkinter
-  datetime
+  paramiko,
+  socket,
+  time,
+  tkinter,
+  datetime,
   ast
